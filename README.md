@@ -16,7 +16,7 @@ Use a mobile first approach with @media queries and its associated breakpoints, 
 ## Live Demo
 To see the live demo go to: https://raw.githack.com/paulgureghian/TNW.com/master/index.html
 
-## Authors
+## Author
 
 👤 **Paul Gureghian**
 
