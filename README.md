@@ -13,7 +13,7 @@ Use a mobile first approach with @media queries and its associated breakpoints, 
 - Git, Github and VScode <br>
 
 ## Live Demo
-To see the live demo go to: https://raw.githack.com/SevlaMare/thenextweb-clone/feature/index.html
+To see the live demo go to: https://raw.githack.com/paulgureghian/TNW.com/master/index.html
 
 ## Authors
 
@@ -22,12 +22,6 @@ To see the live demo go to: https://raw.githack.com/SevlaMare/thenextweb-clone/f
 - Github: [githubhandle](https://github.com/paulgureghian)
 - Twitter: [#twitterhandle](https://twitter.com/paulgureghian)
 - Linkedin: [linkedin](https://www.linkedin.com/in/paulgureghian/)
-
-👤 **Thiago Miranda**
-
-- Github: [SevlaMare](https://github.com/SevlaMare)
-- Twitter: [#SevlaMare](https://twitter.com/SevlaMare)
-- Linkedin: [sevlamare](https://www.linkedin.com/in/sevlamare)
 
 ## More Details 
 https://theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design
