@@ -11,6 +11,7 @@ Use a mobile first approach with @media queries and its associated breakpoints, 
 - Html5 and CSS3 <br>
 - Stickler-CI (Linter) and W3C validator <br>
 - Git, Github and VScode <br>
+- Firefox Dev Tools
 
 ## Live Demo
 To see the live demo go to: https://raw.githack.com/paulgureghian/TNW.com/master/index.html
